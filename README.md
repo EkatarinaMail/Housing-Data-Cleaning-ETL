@@ -20,6 +20,7 @@ glitches, ensuring absolute data integrity for downstream reporting.
 *Data Ingestion from MS SQL Server*
 
 ![Loading raw SQL Server data into Power Query](https://github.com/user-attachments/assets/f76a8925-08c4-4575-b5b8-fa1621402636)
+
 *Loading raw SQL Server data into Power Query*
 
 
@@ -47,12 +48,15 @@ applying Fixed Decimal Numbers to currency fields to eliminate rounding errors.
 
 
 ![Column From Examples for Postcode Parsing](https://github.com/user-attachments/assets/5763856f-3315-4291-926d-420ac52c6564)
+
 *Column From Examples for Postcode Parsing*
 
 ![Clean data result and profiling validation for the Tenancies table](https://github.com/user-attachments/assets/06b9d37b-c41b-44c7-b192-e820392a685f)
+
 *Clean data result and profiling validation for the Tenancies table*
 
 ![Clean data result and profiling validation for the Vulnerability table](https://github.com/user-attachments/assets/d28d7f44-077c-4ca0-819c-f75b64efe401)
+
 *Clean data result and profiling validation for the Vulnerability table*
 
 ![Clean data result and profiling validation for the Repair_Log table](https://github.com/user-attachments/assets/7b397743-1673-424b-b706-75c168c08872)
