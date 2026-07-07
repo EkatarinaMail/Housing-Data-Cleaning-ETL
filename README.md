@@ -22,15 +22,15 @@ Using Power Query, I built a repeatable ETL process that transformed these sourc
 
 ## Key Skills Demonstrated
 
-* Data Integration: Combined data from SQL Server, CSV files, and Excel into a single Power Query workflow, creating one consistent dataset for analysis. 
+* Data Integration: Combined data from three different sources (SQL Server, CSV, and Excel) into a single Power Query workflow. 
 
-* Data Cleaning: Standardised text values by fixing inconsistent capitalisation, removing extra spaces, and correcting formatting issues to improve data quality. 
+* Data Cleaning: Cleaned and standardised text fields by fixing inconsistent capitalisation, removing extra spaces, and correcting formatting issues.
 
-* Removing Duplicates: Identified and removed duplicate records created during system exports, ensuring each property appeared only once in the final dataset.
+* Duplicate Removal: Removed duplicate records to improve data quality and create a reliable dataset.
 
-* Data Transformation: Used Power Query's Column From Examples feature to extract and format UK postcodes into a consistent structure, making the data suitable for future reporting and mapping.
+* Postcode Standardisation: Used Column From Examples to automatically reformat UK postcodes into a consistent structure.
 
-* Data Quality: Replaced invalid text values such as "MISSING" and "None" with proper null values and assigned appropriate data types, including fixed decimal numbers for financial data, to ensure accurate calculations
+* Data Type Management: Replaced invalid values with nulls and assigned appropriate data types to ensure reliable calculations and reporting.
 
 
 
